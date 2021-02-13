@@ -1,0 +1,4 @@
+[line]
+line_notify_token = your.token
+line_notify_api = https://notify-api.line.me/api/notify
+covid19_api = https://opendata.corona.go.jp/api/Covid19JapanAll?dataName=%E9%95%B7%E9%87%8E%E7%9C%8C
